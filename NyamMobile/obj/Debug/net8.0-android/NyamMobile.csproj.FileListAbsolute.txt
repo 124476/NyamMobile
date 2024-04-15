@@ -1038,3 +1038,4 @@ C:\Users\Stipo6\source\repos\NyamMobile\NyamMobile\obj\Debug\net8.0-android\andr
 C:\Users\Stipo6\source\repos\NyamMobile\NyamMobile\obj\Debug\net8.0-android\android\src\crc6452ffdc5b34af3a0f\MauiMaterialButton_MauiResizableDrawable.java
 C:\Users\Stipo6\source\repos\NyamMobile\NyamMobile\obj\Debug\net8.0-android\android\assets\Newtonsoft.Json.dll
 C:\Users\Stipo6\source\repos\NyamMobile\NyamMobile\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+C:\Users\Stipo6\source\repos\NyamMobile\NyamMobile\obj\Debug\net8.0-android\NyamMobile.sourcelink.json

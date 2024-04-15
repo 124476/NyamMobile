@@ -1,3 +1,4 @@
+using Newtonsoft.Json;
 using NyamMobile.Models;
 using NyamMobile.Service;
 
@@ -22,6 +23,10 @@ public partial class OknoOrderDishes : ContentPage
         if (zakazAndBludo != null)
         {
             zakazAndBludo.DateStart = DateTime.Now;
+
+            File.WriteAllText(NetManager.CopyZakazAndBludoPath, JsonConvert.SerializeObject(NetManager.ZakazAndBludos.ToList()));
+
+
             Navigation.PushModalAsync(new OknoRecipe(zakazAndBludo));
         }
     }

@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\pages\\oknorecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\pages\\oknorecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\pages\\oknoorderdishes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\pages\\oknoorderdishes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\pages\\oknoingredients.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\pages\\oknoingredients.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\pages\\oknoorders.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\pages\\oknoorders.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\service\\netmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\service\\netmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\models\\bludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\models\\bludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\pages\\oknoorderdishes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\pages\\oknoorderdishes.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -11,16 +59,8 @@
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\pages\\oknorecipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\pages\\oknoorderdishes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\pages\\oknoorderdishes.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\pages\\oknoorders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\pages\\oknoorders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\pages\\oknoorders.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\pages\\oknoorders.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\pages\\oknoingredients.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -39,16 +79,8 @@
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\models\\partials\\bludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\pages\\oknorecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\pages\\oknorecipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\pages\\oknoingredients.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\pages\\oknoingredients.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\models\\partials\\onerechept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -57,10 +89,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\models\\zakazandbludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\models\\zakazandbludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\models\\bludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\models\\bludo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,24 +103,12 @@
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\resources\\raw\\jsonzakaz.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:NyamMobile\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\models\\onerechept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\models\\onerechept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\service\\netmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\service\\netmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\models\\rechept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,14 +131,6 @@
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\resources\\raw\\jsonbludo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -133,10 +141,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\resources\\raw\\jsonzakazandbludo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\resources\\raw\\jsonzakazandbludo.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -151,10 +155,6 @@
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\resources\\raw\\jsoningredient.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|c:\\users\\stipo6\\source\\repos\\nyammobile\\nyammobile\\nyammobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7BDDDFC2-D9CD-4A36-B44F-A135C9C5CA1C}|NyamMobile\\NyamMobile.csproj|solutionrelative:nyammobile\\nyammobile.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -166,7 +166,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 369,
-          "SelectedChildIndex": 36,
+          "SelectedChildIndex": 32,
           "Children": [
             {
               "$type": "Bookmark",
@@ -174,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "ZakazAndBludo.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\Partials\\ZakazAndBludo.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\Partials\\ZakazAndBludo.cs",
@@ -182,12 +182,11 @@
               "RelativeToolTip": "NyamMobile\\Models\\Partials\\ZakazAndBludo.cs",
               "ViewState": "AQIAADMAAAAAAAAAAAAswFIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:23:45.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T14:23:45.074Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "Bludo.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\Partials\\Bludo.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\Partials\\Bludo.cs",
@@ -195,12 +194,11 @@
               "RelativeToolTip": "NyamMobile\\Models\\Partials\\Bludo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:19:52.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T14:19:52.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "OneRechept.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\Partials\\OneRechept.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\Partials\\OneRechept.cs",
@@ -208,12 +206,11 @@
               "RelativeToolTip": "NyamMobile\\Models\\Partials\\OneRechept.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAcwDAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T12:24:09.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T12:24:09.862Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "Zakaz.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\Partials\\Zakaz.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\Partials\\Zakaz.cs",
@@ -221,12 +218,11 @@
               "RelativeToolTip": "NyamMobile\\Models\\Partials\\Zakaz.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T11:22:37.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T11:22:37.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 24,
               "Title": "jsonZakaz.json",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Resources\\Raw\\jsonZakaz.json",
               "RelativeDocumentMoniker": "NyamMobile\\Resources\\Raw\\jsonZakaz.json",
@@ -234,12 +230,11 @@
               "RelativeToolTip": "NyamMobile\\Resources\\Raw\\jsonZakaz.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-15T11:21:27.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T11:21:27.089Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\Client.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\Client.cs",
@@ -247,12 +242,11 @@
               "RelativeToolTip": "NyamMobile\\Models\\Client.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T11:18:36.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T11:18:36.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "App.g.i.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "RelativeDocumentMoniker": "NyamMobile\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
@@ -260,38 +254,37 @@
               "RelativeToolTip": "NyamMobile\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAMwEMAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T11:11:10.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T11:11:10.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 6,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\MauiProgram.cs",
               "RelativeDocumentMoniker": "NyamMobile\\MauiProgram.cs",
               "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\MauiProgram.cs",
               "RelativeToolTip": "NyamMobile\\MauiProgram.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T10:04:42.246Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "MainApplication.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Platforms\\Android\\MainApplication.cs",
               "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Platforms\\Android\\MainApplication.cs",
               "RelativeToolTip": "NyamMobile\\Platforms\\Android\\MainApplication.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T10:03:36.735Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "jsonZakazAndBludo.json",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Resources\\Raw\\jsonZakazAndBludo.json",
               "RelativeDocumentMoniker": "NyamMobile\\Resources\\Raw\\jsonZakazAndBludo.json",
@@ -303,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 10,
               "Title": "MainActivity.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Platforms\\Android\\MainActivity.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Platforms\\Android\\MainActivity.cs",
@@ -311,11 +304,12 @@
               "RelativeToolTip": "NyamMobile\\Platforms\\Android\\MainActivity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T09:13:30.362Z"
+              "WhenOpened": "2024-04-15T09:13:30.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "jsonIngredient.json",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Resources\\Raw\\jsonIngredient.json",
               "RelativeDocumentMoniker": "NyamMobile\\Resources\\Raw\\jsonIngredient.json",
@@ -327,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "jsonCategory.json",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Resources\\Raw\\jsonCategory.json",
               "RelativeDocumentMoniker": "NyamMobile\\Resources\\Raw\\jsonCategory.json",
@@ -339,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "AboutAssets.txt",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Resources\\Raw\\AboutAssets.txt",
               "RelativeDocumentMoniker": "NyamMobile\\Resources\\Raw\\AboutAssets.txt",
@@ -351,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Zakaz.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\Zakaz.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\Zakaz.cs",
@@ -363,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "ZakazAndBludo.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\ZakazAndBludo.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\ZakazAndBludo.cs",
@@ -371,12 +365,11 @@
               "RelativeToolTip": "NyamMobile\\Models\\ZakazAndBludo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T09:07:31.988Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T09:07:31.988Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "Rechept.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\Rechept.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\Rechept.cs",
@@ -388,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "OneRechept.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\OneRechept.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\OneRechept.cs",
@@ -400,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "MainInit.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\MainInit.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\MainInit.cs",
@@ -412,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "Bludo.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\Bludo.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\Bludo.cs",
@@ -425,7 +418,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 31,
               "Title": "jsonBludo.json",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Resources\\Raw\\jsonBludo.json",
               "RelativeDocumentMoniker": "NyamMobile\\Resources\\Raw\\jsonBludo.json",
@@ -437,19 +430,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 5,
               "Title": "NetManager.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Service\\NetManager.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Service\\NetManager.cs",
               "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Service\\NetManager.cs",
               "RelativeToolTip": "NyamMobile\\Service\\NetManager.cs",
-              "ViewState": "AQIAAMsAAAAAAAAAAAAvwOUAAAAJAAAA",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAcwN8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T08:24:43.114Z"
+              "WhenOpened": "2024-04-15T08:24:43.114Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "Ingredient.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\Ingredient.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\Ingredient.cs",
@@ -457,12 +451,11 @@
               "RelativeToolTip": "NyamMobile\\Models\\Ingredient.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T07:54:28.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T07:54:28.384Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Models\\Category.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Models\\Category.cs",
@@ -474,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "OknoIngredients.xaml",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Pages\\OknoIngredients.xaml",
               "RelativeDocumentMoniker": "NyamMobile\\Pages\\OknoIngredients.xaml",
@@ -482,8 +475,7 @@
               "RelativeToolTip": "NyamMobile\\Pages\\OknoIngredients.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-12T15:06:32.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T15:06:32.046Z"
             },
             {
               "$type": "Document",
@@ -500,19 +492,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 3,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\App.xaml.cs",
               "RelativeDocumentMoniker": "NyamMobile\\App.xaml.cs",
               "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\App.xaml.cs",
               "RelativeToolTip": "NyamMobile\\App.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T07:44:43.643Z"
+              "WhenOpened": "2024-04-15T07:44:43.643Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "OknoOrders.xaml",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Pages\\OknoOrders.xaml",
               "RelativeDocumentMoniker": "NyamMobile\\Pages\\OknoOrders.xaml",
@@ -520,12 +513,11 @@
               "RelativeToolTip": "NyamMobile\\Pages\\OknoOrders.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-12T15:05:31.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T15:05:31.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\App.xaml",
               "RelativeDocumentMoniker": "NyamMobile\\App.xaml",
@@ -549,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "AppShell.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\AppShell.xaml.cs",
               "RelativeDocumentMoniker": "NyamMobile\\AppShell.xaml.cs",
@@ -557,25 +549,24 @@
               "RelativeToolTip": "NyamMobile\\AppShell.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T06:57:04.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T06:57:04.12Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "OknoRecipe.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Pages\\OknoRecipe.xaml.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Pages\\OknoRecipe.xaml.cs",
               "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Pages\\OknoRecipe.xaml.cs",
               "RelativeToolTip": "NyamMobile\\Pages\\OknoRecipe.xaml.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAA4AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA7wCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T15:30:54.56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 13,
               "Title": "OknoRecipe.xaml",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Pages\\OknoRecipe.xaml",
               "RelativeDocumentMoniker": "NyamMobile\\Pages\\OknoRecipe.xaml",
@@ -583,25 +574,24 @@
               "RelativeToolTip": "NyamMobile\\Pages\\OknoRecipe.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-12T15:30:15.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T15:30:15.684Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OknoOrderDishes.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Pages\\OknoOrderDishes.xaml.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Pages\\OknoOrderDishes.xaml.cs",
               "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Pages\\OknoOrderDishes.xaml.cs",
               "RelativeToolTip": "NyamMobile\\Pages\\OknoOrderDishes.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T15:22:33.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 8,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\AppShell.xaml",
               "RelativeDocumentMoniker": "NyamMobile\\AppShell.xaml",
@@ -609,37 +599,38 @@
               "RelativeToolTip": "NyamMobile\\AppShell.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-12T14:31:22.666Z"
+              "WhenOpened": "2024-04-12T14:31:22.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "OknoOrderDishes.xaml",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Pages\\OknoOrderDishes.xaml",
               "RelativeDocumentMoniker": "NyamMobile\\Pages\\OknoOrderDishes.xaml",
               "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Pages\\OknoOrderDishes.xaml",
               "RelativeToolTip": "NyamMobile\\Pages\\OknoOrderDishes.xaml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAxAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-04-12T15:21:40.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "OknoIngredients.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Pages\\OknoIngredients.xaml.cs",
               "RelativeDocumentMoniker": "NyamMobile\\Pages\\OknoIngredients.xaml.cs",
               "ToolTip": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\Pages\\OknoIngredients.xaml.cs",
               "RelativeToolTip": "NyamMobile\\Pages\\OknoIngredients.xaml.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAA8wBYAAAARAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwBYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T15:13:18.796Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 7,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "NyamMobile\\MainPage.xaml.cs",
@@ -647,11 +638,12 @@
               "RelativeToolTip": "NyamMobile\\MainPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:53:01.43Z"
+              "WhenOpened": "2024-04-12T14:53:01.43Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Stipo6\\source\\repos\\NyamMobile\\NyamMobile\\MainPage.xaml",
               "RelativeDocumentMoniker": "NyamMobile\\MainPage.xaml",

@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NyamMobile")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+cbf8c7c5f027a4121b452cdf1d656f27866aaa00")]
 [assembly: System.Reflection.AssemblyProductAttribute("NyamMobile")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NyamMobile")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

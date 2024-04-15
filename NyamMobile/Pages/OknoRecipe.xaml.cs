@@ -1,3 +1,4 @@
+using Newtonsoft.Json;
 using NyamMobile.Models;
 using NyamMobile.Service;
 
@@ -39,6 +40,8 @@ public partial class OknoRecipe : ContentPage
     private void FinishBtn_Clicked(object sender, EventArgs e)
     {
         contextBludo.DateEnd = DateTime.Now;
+
+        File.WriteAllText(NetManager.CopyZakazAndBludoPath, JsonConvert.SerializeObject(NetManager.ZakazAndBludos.ToList()));
         Navigation.PushModalAsync(new OknoOrders());
     }
 }
