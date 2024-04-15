@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NyamMobile.Pages.OknoOrders"
+             Title="Orders">
+    
+    <ScrollView>
+        <CollectionView x:Name="ListOrders" SelectionMode="Single" SelectionChangedCommand="{Binding ClickCommand}" SelectionChanged="ListOrders_SelectionChanged">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout HeightRequest="55">
+                        <StackLayout Orientation="Horizontal" HeightRequest="46" Background="LightGray">
+                            <Label Text="O" TextColor="{Binding ColorStatus}" Margin="10,0,25,0" FontSize="25"></Label>
+                            <StackLayout WidthRequest="230">
+                                <Label Text="{Binding ClientName}" FontSize="17"></Label>
+                                <Label Text="{Binding Dishes}" FontSize="13" WidthRequest="200" HorizontalOptions="Start" HeightRequest="20"></Label>
+                            </StackLayout>
+                            <StackLayout HorizontalOptions="End">
+                                <Label Text="{Binding Date, StringFormat='{0:dd/MM/yyyy}'}" FontSize="17" ></Label>
+                                <HorizontalStackLayout>
+                                    <Label Text="Total cost: " FontSize="13"></Label>
+                                    <Label Text="{Binding TotalCost}" FontSize="13" WidthRequest="40" Margin="3,0,0,0" HeightRequest="20"></Label>
+                                </HorizontalStackLayout>
+                            </StackLayout>
+                        </StackLayout>
+                    </StackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </ScrollView>
+</ContentPage>

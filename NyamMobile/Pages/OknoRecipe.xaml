@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NyamMobile.Pages.OknoRecipe"
+             x:Name="ContentMain">
+    <ScrollView>
+        <StackLayout Margin="10,0,0,0">
+            <HorizontalStackLayout HorizontalOptions="Center">
+                <Label x:Name="BaseServing" FontSize="23" Margin="0,0,10,0"></Label>
+                <Label Text="serving" FontSize="23"></Label>
+            </HorizontalStackLayout>
+            <Label x:Name="Num" FontSize="27" HorizontalOptions="Center"></Label>
+            <Label x:Name="TTime" FontSize="21" HorizontalOptions="Center"></Label>
+            <Label Text="Ingredients:" FontSize="17" ></Label>
+            <CollectionView x:Name="ListIngredients">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <HorizontalStackLayout>
+                            <Label Text="{Binding Name}" Margin="0,0,20,0"></Label>
+                            <Label Text="{Binding SumIng}" Margin="0,0,10,0"></Label>
+                            <Label Text="{Binding MainInitName}"></Label>
+                        </HorizontalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <Label Text="Cooking Process:" FontSize="17"></Label>
+            <CollectionView x:Name="ListProcess">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <HorizontalStackLayout>
+                            <Label Text="{Binding Text}" Margin="0,0,100,0" FontSize="13" WidthRequest="350"></Label>
+                        </HorizontalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <Button x:Name="FinishBtn" Text="Finish!" FontSize="17" Clicked="FinishBtn_Clicked"></Button>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
